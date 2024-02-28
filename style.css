@@ -1,0 +1,63 @@
+:root { /* varias valores */
+            
+    text-color: #fff;
+    font-size: 16px;
+    line-height: 1.6;
+    --padding: 1rem;
+    --border-radius: 5px;
+    
+    
+  }
+
+body {
+    
+    background-color: #b7e27b;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+main {
+    
+    margin: 2% auto;
+    
+    
+}
+
+header {
+    background-color:aqua
+    padding:#333
+    text-align: left;
+  }
+
+  header h1 { /* Cabeçalho */
+    
+    background-color: #0a47fdef;
+    margin: 0;
+    text-align: center;
+  }
+
+
+section {
+    flex: 1;
+        background-color: ;
+}
+
+footer { /*  estilo para o rodapé. */
+    
+    background-color: rgb(255, 255, 255);
+    color: rgb, #120101
+    left: 0;
+    Position: absolute;
+    bottom: 0;
+    
+     
+  }
+
+
+
+
+    
